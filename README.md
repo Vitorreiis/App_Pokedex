@@ -1,16 +1,32 @@
-# app_pokedex
+<br />
+<p align="center">
+    <img src="design/ProjectMockup.png" alt="Logo" width="500">
 
-A new Flutter project.
+  <h3 align="center">Pokedex by <a href="https://umpontoseis.com/">umpontoseis</a></h3>
+ <br />
+  <p align="center">
+     App para buscar pokémons
+       <br />
+    <br />
+    <a href="https://github.com/Lorenalgm/pokedex">Desafio</a>
+    ·
+    <a href="https://www.devchallenge.com.br/">DevChallenge</a>
+  </p>
+</p>
 
-## Getting Started
+## Índice
 
-This project is a starting point for a Flutter application.
+# Devchallenge
+<a href="https://devchallenge.now.sh/"> DevChallenge</a> permite que você evolua suas skills como programador! Participe da nossa <a href="https://discord.gg/yvYXhGj">comunidade</a> o/
 
-A few resources to get you started if this is your first Flutter project:
+# Desafio
+Seu desafio é criar um app para buscar pokémons, filtrando por tipos, além de visualizar mais informações dos personagens.
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+## Requisitos:
+- Criar uma tela inicial listando todos os pokemons<br>
+- Adicionar filtros, podendo ser por: tipos, fraquezas, alturas, pesos e quantitativo de números<br>
+- Ao clicar em um personagem, o usuário será redirecionado para o perfil do mesmo, onde conterá mais informações como dados de treinamento, inicadores, tipos de defesa e evoluções.
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Requisitos extras:
+- Adicionar opção para ordenar por ordem alfabética ou numeração
+- Adicionar filtro por gerações de pokemons/<br>
