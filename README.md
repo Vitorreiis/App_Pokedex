@@ -1,8 +1,5 @@
 <br />
-<p align="center">
-    <img src="design/ProjectMockup.png" alt="Logo" width="500">
-
-  <h3 align="center">Pokedex by <a href="https://umpontoseis.com/">umpontoseis</a></h3>
+  <h3 align="center">Pokedex</h3>
  <br />
   <p align="center">
      App para buscar pokémons
@@ -17,10 +14,10 @@
 ## Índice
 
 # Devchallenge
-<a href="https://devchallenge.now.sh/"> DevChallenge</a> permite que você evolua suas skills como programador! Participe da nossa <a href="https://discord.gg/yvYXhGj">comunidade</a> o/
+Discord: <a href="https://discord.gg/yvYXhGj">comunidade</a>. Desafio da </a><a href="https://devchallenge.now.sh/"> DevChallenge
 
 # Desafio
-Seu desafio é criar um app para buscar pokémons, filtrando por tipos, além de visualizar mais informações dos personagens.
+Desafio é criar um app para buscar pokémons, filtrando por tipos, além de visualizar mais informações dos personagens.
 
 ## Requisitos:
 - Criar uma tela inicial listando todos os pokemons<br>
